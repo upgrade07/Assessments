@@ -1,0 +1,81 @@
+body{
+    background-color: black;
+}
+
+.leftbox{
+    background-color: red;
+    width: 33%;
+    height: 50px;
+    display: inline-block;
+    border-style: dotted;
+    border-radius: 3cm;
+    color: seashell;
+}
+
+.midbox{
+    background-color: red;
+    width: 33%;
+    display: inline-block;
+    border-style: dotted;
+    border-radius: 3cm;
+    text-align: center;
+    size: 10px;
+    color: seashell;
+}
+
+.rightbox{
+    background-color: red;
+    width: 32%;
+    
+    display: inline-block;
+    border-style: dotted;
+    border-radius: 3cm;
+    height: 50px;
+    color: seashell;
+}
+
+.main{
+    display: block;
+    height: 900px;
+    background-color: red;
+    margin-top: 70px;
+    border-style: ridge;
+    color: seashell;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.circle{
+    background: lightblue;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    
+    
+}
+
+
+.circle span{
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 80px;
+}
+
+.form{
+    display: block;
+    height: 400px;
+    background-color: springgreen;
+    margin-right: 25px;
+    margin-top: 20px;
+}
+
+.card{
+    display: inline-block;
+    height: 400px;
+    width: 200px;
+    background-color: red;
+    margin-left: 20px;
+    margin-top: 20px;
+    text-align: center;
+}

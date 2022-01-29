@@ -1,0 +1,15 @@
+span1{
+    text-decoration: line-through;
+}
+ol li {
+    color: brown;
+    font-size: large;
+}
+user agent stylesheet
+li {
+    text-align: -webkit-match-parent;
+}
+user agent stylesheet
+ol {
+    list-style-type: decimal;
+}
